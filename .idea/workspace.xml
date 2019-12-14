@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2f0116f-a623-4ac5-9635-6b46e019ca7d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1UxasvvmIfSsHkaXC9L8RG3dH81" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.python_conda">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="opencv-text-detection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../abc/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="python_conda" type="PythonConfigurationType" factoryName="Python">
+      <module name="opencv-text-detection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/miniconda3/envs/untitled/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.python_conda" />
+      <item itemvalue="Python.Unnamed" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2f0116f-a623-4ac5-9635-6b46e019ca7d" name="Default Changelist" comment="" />
+      <created>1576300910418</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576300910418</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576301991320">
+      <screen x="0" y="36" width="1920" height="1016" />
+    </state>
+    <state x="418" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.36.1920.1016@0.36.1920.1016" timestamp="1576301991320" />
+    <state width="1373" height="251" key="GridCell.Tab.0.bottom" timestamp="1576302227398">
+      <screen x="0" y="36" width="1920" height="1016" />
+    </state>
+    <state width="1373" height="251" key="GridCell.Tab.0.bottom/0.36.1920.1016@0.36.1920.1016" timestamp="1576302227398" />
+    <state width="1373" height="251" key="GridCell.Tab.0.center" timestamp="1576302227396">
+      <screen x="0" y="36" width="1920" height="1016" />
+    </state>
+    <state width="1373" height="251" key="GridCell.Tab.0.center/0.36.1920.1016@0.36.1920.1016" timestamp="1576302227396" />
+    <state width="1373" height="251" key="GridCell.Tab.0.left" timestamp="1576302227395">
+      <screen x="0" y="36" width="1920" height="1016" />
+    </state>
+    <state width="1373" height="251" key="GridCell.Tab.0.left/0.36.1920.1016@0.36.1920.1016" timestamp="1576302227395" />
+    <state width="1373" height="251" key="GridCell.Tab.0.right" timestamp="1576302227397">
+      <screen x="0" y="36" width="1920" height="1016" />
+    </state>
+    <state width="1373" height="251" key="GridCell.Tab.0.right/0.36.1920.1016@0.36.1920.1016" timestamp="1576302227397" />
+    <state x="696" y="185" width="1022" height="734" key="SettingsEditor" timestamp="1576302855311">
+      <screen x="0" y="36" width="1920" height="1016" />
+    </state>
+    <state x="696" y="185" width="1022" height="734" key="SettingsEditor/0.36.1920.1016@0.36.1920.1016" timestamp="1576302855311" />
+  </component>
+</project>
